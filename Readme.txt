@@ -1,2 +1,6 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
+Thanks for downloading this template!
+
+Template Name: KnightOne
+Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
